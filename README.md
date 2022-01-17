@@ -1,4 +1,4 @@
-<h1 align="center">MabTurismo</h1>
+<h1 align="center">Grid-Responsive</h1>
 
 Template feito em CSS Grid, totalmente responsivo.
 
